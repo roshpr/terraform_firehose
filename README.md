@@ -1,4 +1,4 @@
-# terraform_elasticsearch
+# AWS firehose support for VPC flow log analysis.
 Creating a ELK infra for monitoring & analysing VPC network flow using the VPC flow log. This is achieved by using AWS components like Firehose, Elasticsearch & Lambda.
 The Lambda code is an enhancement on https://github.com/awslabs/aws-vpc-flow-log-appender code to include VPC related statistics.
 
